@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category expanded="true" name="カテゴリーなし">
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="A"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Accumulate"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Adder"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="ArithmeticProgression"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="BuggyTest"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="CardLayoutTest3"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="CharSetUser"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Constructor"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="DialogTest"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="GeTAC"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="InstanceOf"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Judge"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Kari"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (10)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (11)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (12)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (13)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (14)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (15)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (16)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (17)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (18)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (19)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (2)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (20)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (21)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (22)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (23)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (24)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (25)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (26)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (27)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (28)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (29)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (3)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (30)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (31)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (32)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (33)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (34)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (35)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (36)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (4)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (5)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (6)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (7)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (8)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (9)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="MainFrame"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="MoguraApp"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="MyVectorUser"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob101Test"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob105"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob13"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob21"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob210"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob25"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob26"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob27"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob28"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob64"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob74"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob81"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob82"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob82 (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob83"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob84"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob92"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob93"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob94"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob94_2"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Prob95"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Rnsyu"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Sample1_7"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SampleClass"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="Square"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="SwingApplication"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TestArgument"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TestDistance"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TestList"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TestVar"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="TruckUser"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="User"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="User (1)"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="dentaku3"/>
+<launchConfiguration bookmark="false" defaultLaunchMode="run" name="game"/>
+</category>
+</runner>

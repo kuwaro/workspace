@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;practice.MAin&apos; を &apos;Main&apos; に名前変更します&#x0A;- 元のプロジェクト: &apos;practice1-7&apos;&#x0A;- オリジナル要素: &apos;practice.MAin&apos;&#x0A;- 名前変更済み要素: &apos;practice.Main&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;MAin&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;practice{MAin.java[MAin" matchStrategy="1" name="Main" qualified="false" references="true" similarDeclarations="false" stamp="1554022708391" textual="false" version="1.0"/>
+</session>

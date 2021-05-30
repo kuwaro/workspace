@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.12" sequence="1" timestamp="1562306183545" analysisTimestamp="1562306174642" release="">
+  <Project projectName="pro0705">
+    <Jar>/Users/kuwaro/Desktop/Java.app/Contents/workspace/pro0705/bin/Prob101.class</Jar>
+    <AuxClasspathEntry>/Users/kuwaro/Desktop/Java.app/Contents/workspace/pro0705/bin</AuxClasspathEntry>
+    <AuxClasspathEntry>/Applications/Eclipse_2019-03.app/Contents/java/11/Home/lib/jrt-fs.jar</AuxClasspathEntry>
+    <SrcDir>/Users/kuwaro/Desktop/Java.app/Contents/workspace/pro0705/src</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 5 Jul 2019 11:16:21 +0900" total_classes="1" referenced_classes="15" total_bugs="0" total_size="7" num_packages="1" java_version="1.8.0_202" vm_version="25.202-b08" cpu_seconds="23.13" clock_seconds="8.99" peak_mbytes="1011.34" alloc_mbytes="2048.00" gc_seconds="0.41">
+    <PackageStats package="" total_bugs="0" total_types="1" total_size="7">
+      <ClassStats class="Prob101" sourceFile="Prob101.java" interface="false" size="7" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="1351" invocations="2" avgMicrosecondsPerInvocation="675624" maxMicrosecondsPerInvocation="1091750" standardDeviationMicrosecondsPerInvocation="416126"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="413" invocations="361" avgMicrosecondsPerInvocation="1144" maxMicrosecondsPerInvocation="49114" standardDeviationMicrosecondsPerInvocation="3205"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="223" invocations="364" avgMicrosecondsPerInvocation="614" maxMicrosecondsPerInvocation="9229" standardDeviationMicrosecondsPerInvocation="809"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="139" invocations="15" avgMicrosecondsPerInvocation="9320" maxMicrosecondsPerInvocation="100923" standardDeviationMicrosecondsPerInvocation="24781"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteCheckReturnValueAnnotations" totalMilliseconds="109" invocations="15" avgMicrosecondsPerInvocation="7301" maxMicrosecondsPerInvocation="104866" standardDeviationMicrosecondsPerInvocation="26084"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="100" invocations="15" avgMicrosecondsPerInvocation="6709" maxMicrosecondsPerInvocation="28658" standardDeviationMicrosecondsPerInvocation="9381"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="92" invocations="2" avgMicrosecondsPerInvocation="46369" maxMicrosecondsPerInvocation="91589" standardDeviationMicrosecondsPerInvocation="45220"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1562306183539" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="コンパイル単位名 &apos;card.java&apos; を &apos;Card.java&apos; に変更&#x0A;- 元のプロジェクト: &apos;104Main&apos;&#x0A;- オリジナル要素: &apos;card.java&apos;&#x0A;- 名前変更済み要素: &apos;Card.java&apos;" description="コンパイル単位名 &apos;card.java&apos; を変更します" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{card.java" name="Card.java" references="false" stamp="1555493955721" version="1.0"/>
+</session>

@@ -1,0 +1,29 @@
+//クイックソート
+
+public class QuickSort {
+	//配列の要素a[idx1]とa[idx2]を交換
+	static void swap(int[] a,int idx1,int idx2) {
+		int tmp=a[idx1];
+		a[idx1]=a[idx2];
+		a[idx2]=tmp;
+	}
+	//クイックソート関数
+	static void quickSort(int[] a,int left,int right) {
+		int pl=left;//左カーソル
+		int pr=right;//右カーソル
+		int pivot=a[(pl+pr)/2];//ピボット
+		do {
+			while(a[pl]<pivot) pl++;
+			while(a[pr]>pivot) pr++;
+			if(pl<=pr)
+				swap(a,pl++,pr++);
+		}while(pl<=pr);
+
+		if(left<pr) quickSort(a, left, pr);
+		if(pl<right) quickSort(a, pl, right);
+	}
+
+	public static void main(String[] args) {
+
+	}
+}

@@ -1,0 +1,11 @@
+package pro524;
+
+public class Prob64 {
+	public static void main(String[] args) {
+		int sum=1;
+		for(int i=0;i<args.length;i++) {
+			sum*=Integer.valueOf(args[i]);
+		}
+		System.out.println(sum);
+	}
+}
